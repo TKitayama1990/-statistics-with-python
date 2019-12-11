@@ -1,1 +1,1 @@
-# -StatisticalAnalysis-with-python
+# -statistics-with-python
